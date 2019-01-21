@@ -100,7 +100,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-ALLOWED_HOSTS = ["kdavlin.pythonanywhere.com"]
+ALLOWED_HOSTS = ["kdavlin.pythonanywhere.com","127.0.0.1"]
 
 
 
